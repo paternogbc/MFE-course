@@ -135,19 +135,19 @@ title = "Methods in Field Ecology"
 
   [[params.team.item]]
     name = "Leonardo H. Teixeira (TUM)"
-    position = "PhD in Ecology - Organizing committee"
+    position = "PhD in Ecology"
     description = "Restoration ecology and biodiversity and ecosystem functioning <p> <a href='http://www.roek.wzw.tum.de/index.php?id=226' target = 'blank'>Website</a></p>"
     img = "images/leonardo.jpg"
 
   [[params.team.item]]
     name = "Nathan  O. Barros (UFJF)"
-    position = "PhD in Ecology - Organizing committee"
+    position = "PhD in Ecology"
     description = "<p>Limnology, aquatic ecosystems and microbial ecology</p> <p> <a href='https://scholar.google.com/citations?hl=en&user=CwKsLgEAAAAJ' target = 'blank'>Website</a></p>"
     img = "images/nathan.jpg"
     
     [[params.team.item]]
     name = "Gustavo B. Paterno (UFRN)"
-    position = "PhD in Ecology - Organizing committee"
+    position = "PhD in Ecology"
     description = "Plant Ecology and Evolution <p> <a href='https://paternogbc.netlify.com' target = 'blank'>Website</a></p>"
     img = "images/gustavo.jpg"
 
