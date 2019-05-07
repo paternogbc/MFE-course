@@ -8,14 +8,6 @@
   </url>
   
   <url>
-    <loc>/teste/1/</loc>
-  </url>
-  
-  <url>
-    <loc>/teste/</loc>
-  </url>
-  
-  <url>
     <loc>/categories/</loc>
     <priority>0</priority>
   </url>
