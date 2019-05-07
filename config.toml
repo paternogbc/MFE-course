@@ -134,7 +134,7 @@ title = "Methods in Field Ecology"
   description = ""
 
   [[params.team.item]]
-    name = "Leonardo H. Teixeira (TUM)"
+    name = "Leonardo H. Teixeira (TUM - Germany)"
     position = "PhD in Ecology"
     description = "Restoration ecology and biodiversity and ecosystem functioning <p> <a href='http://www.roek.wzw.tum.de/index.php?id=226' target = 'blank'>Website</a></p>"
     img = "images/leonardo.jpg"
@@ -142,8 +142,9 @@ title = "Methods in Field Ecology"
   [[params.team.item]]
     name = "Nathan  O. Barros (UFJF)"
     position = "PhD in Ecology"
-    description = "<p>Limnology, aquatic ecosystems and microbial ecology</p> <p> <a href='https://scholar.google.com/citations?hl=en&user=CwKsLgEAAAAJ' target = 'blank'>Website</a></p>"
+    description = "<p> Limnology, aquatic ecosystems and microbial ecology</p> <p> <a href='https://scholar.google.com/citations?hl=en&user=CwKsLgEAAAAJ' target = 'blank'>Website</a></p>"
     img = "images/nathan.jpg"
+    
     
     [[params.team.item]]
     name = "Gustavo B. Paterno (UFRN)"
@@ -156,12 +157,36 @@ title = "Methods in Field Ecology"
     position = "PhD in Ecology"
     description = "Plant and community ecology <p> <a href='https://scholar.google.com.br/citations?user=cnmTS8cAAAAJ&hl=pt-BR' target = 'blank'>Website</a></p>"
     img = "images/fabricio.jpg"
+    
+    [[params.team.item]]
+    name = "Christian Braeuchler (NHM)"
+    position = "PhD in Biology"
+    description = "Plant Systematics and Evolution <p> <a href='https://www.nhm-wien.ac.at/en/museum/staff?mid=1535318287185&m_detail=yes' target = 'blank'>Website</a></p>"
+    img = "images/christian.png"
+    
+    [[params.team.item]]
+    name = "Juliane Lopes (UFJF)"
+    position = "PhD in Ecology"
+    description = "Plant Ecology and Evolution <p> <a href='https://paternogbc.netlify.com' target = 'blank'>Website</a></p>"
+    img = "images/juliane.jpg"
+    
+    [[params.team.item]]
+    name = "Raquel Mendonça (UFJF)"
+    position = "PhD in Ecology"
+    description = "Ecosystem ecology <p><a href='http://www.ufjf.br/limnologia-eng/staff/actual/professors/666-2/' target = 'blank'>Website</a></p>"
+    img = "images/raquel.jpg"
 
          [[params.team.item]]
     name = "André Megali  (UFJF)"
     position = "PhD in Ecology"
     description = "Ecosystem ecology <p><a href='http://www.ufjf.br/limnologia-eng/staff/actual/professors/666-2/' target = 'blank'>Website</a></p>"
     img = "images/andre.jpg"
+    
+         [[params.team.item]]
+    name = "Simone Cardoso  (UFJF)"
+    position = "PhD in Ecology"
+    description = "Ecosystem ecology <p><a href='http://www.ufjf.br/limnologia-eng/staff/actual/professors/666-2/' target = 'blank'>Website</a></p>"
+    img = "images/simone.jpg"
 
             [[params.team.item]]
     name = "Luiz Menini Neto  (UFJF)"
